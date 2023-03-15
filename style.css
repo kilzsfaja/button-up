@@ -1,0 +1,30 @@
+* {
+    margin: 10px;
+}
+.searchButt {
+    border: 2px solid aqua;
+    border-radius: 25px;
+    color: rgb(35, 158, 158);
+    min-width: 150px;
+    min-height: 30px;
+    text-align: center;
+    font-weight: 950;
+}
+
+.plus {
+    border-radius: 50%;
+    background-color: rgb(20, 176, 147);
+    border: solid rgb(20, 176, 147);
+    color: whitesmoke;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.createAcc {
+    background-color: rgb(39, 98, 193);
+    min-width: 150px;
+    min-height: 30px;
+    color: whitesmoke;
+    box-shadow: 3px 3px 1px #000000;
+}
